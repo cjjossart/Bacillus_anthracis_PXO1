@@ -1,0 +1,25 @@
+{
+  "title": "Bacillus Anthracis Plasmid Pxo1 Virulence factors (bp 1 - 47555)",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"},
+    "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"}
+  },
+  "geo": [
+    "country",
+    "state"
+  ],
+  "maintainer": [
+    "Christopher Jossart",
+    "https://github.com/cjjossart/Nextstrain"
+  ],
+  "filters": [
+    "country",
+    "state"
+  ],
+  "defaults": {
+   "colorBy": "state",
+   "mapTriplicate": false,
+   "geoResolution": "state"
+ }
+}

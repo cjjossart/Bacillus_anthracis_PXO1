@@ -1,0 +1,211 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 181654,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "nodes": {
+    "Austria_GCF_001936375_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Bhutan_SRR5810980_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Estonia_ERR3170367_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Finland_GCA_003063925_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596593_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596603_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596608_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596624_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596628_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596643_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_ERR1596645_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_GCA_000697555_AE017336.2": {
+      "aa_muts": {}
+    },
+    "France_GCF_000832745_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Germany_GCF_000295695_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Korea_GCF_000725325_AE017336.2": {
+      "aa_muts": {}
+    },
+    "NODE_0000000": {
+      "aa_muts": {}
+    },
+    "NODE_0000001": {
+      "aa_muts": {},
+      "aa_sequences": {}
+    },
+    "NODE_0000004": {
+      "aa_muts": {}
+    },
+    "NODE_0000005": {
+      "aa_muts": {}
+    },
+    "NODE_0000006": {
+      "aa_muts": {}
+    },
+    "NODE_0000011": {
+      "aa_muts": {}
+    },
+    "NODE_0000012": {
+      "aa_muts": {}
+    },
+    "NODE_0000013": {
+      "aa_muts": {}
+    },
+    "NODE_0000014": {
+      "aa_muts": {}
+    },
+    "NODE_0000015": {
+      "aa_muts": {}
+    },
+    "NODE_0000016": {
+      "aa_muts": {}
+    },
+    "NODE_0000017": {
+      "aa_muts": {}
+    },
+    "NODE_0000018": {
+      "aa_muts": {}
+    },
+    "NODE_0000019": {
+      "aa_muts": {}
+    },
+    "NODE_0000020": {
+      "aa_muts": {}
+    },
+    "NODE_0000021": {
+      "aa_muts": {}
+    },
+    "NODE_0000022": {
+      "aa_muts": {}
+    },
+    "NODE_0000023": {
+      "aa_muts": {}
+    },
+    "NODE_0000024": {
+      "aa_muts": {}
+    },
+    "NODE_0000025": {
+      "aa_muts": {}
+    },
+    "NODE_0000026": {
+      "aa_muts": {}
+    },
+    "NODE_0000027": {
+      "aa_muts": {}
+    },
+    "NODE_0000028": {
+      "aa_muts": {}
+    },
+    "NODE_0000029": {
+      "aa_muts": {}
+    },
+    "NODE_0000030": {
+      "aa_muts": {}
+    },
+    "NODE_0000031": {
+      "aa_muts": {}
+    },
+    "NODE_0000032": {
+      "aa_muts": {}
+    },
+    "NODE_0000034": {
+      "aa_muts": {}
+    },
+    "NODE_0000035": {
+      "aa_muts": {}
+    },
+    "Russia_ERR3170368_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Siberia_ERR3170366_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Stavropol_ERR3170365_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yakutia_ERR3170362_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yakutia_ERR3170364_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yamal_ERR3170358_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yamal_ERR3170359_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yamal_ERR3170360_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Russia_Yamal_ERR3170361_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Slovakia_GCA_003064045_AE017336.2": {
+      "aa_muts": {}
+    },
+    "SouthAfrica_GCF_000167295_AE017336.2": {
+      "aa_muts": {}
+    },
+    "SouthAfrica_GCF_000181935_AE017336.2": {
+      "aa_muts": {}
+    },
+    "SouthAfrica_SRR2174564_AE017336.2": {
+      "aa_muts": {}
+    },
+    "SouthAfrica_SRR2968134_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Sweden_SRR974956_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Switzerland_ERR899846_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Switzerland_ERR899847_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Switzerland_GCA_003064015_AE017336.2": {
+      "aa_muts": {}
+    },
+    "UnitedStates_SRR5811089_AE017336.2": {
+      "aa_muts": {}
+    },
+    "Zimbabwe_GCA_000743805_AE017336.2": {
+      "aa_muts": {}
+    }
+  },
+  "reference": {}
+}

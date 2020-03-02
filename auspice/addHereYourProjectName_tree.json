@@ -1,0 +1,1702 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "ZAF",
+    "country_confidence": {
+      "FRA": 0.02835750072714843,
+      "RUS": 0.409585186134826,
+      "SVK": 0.021494593346846242,
+      "ZAF": 0.44721409936976797
+    },
+    "country_entropy": 1.3397437568298762,
+    "date": "1619-01-24",
+    "div": 0,
+    "num_date": 1619.067932110046,
+    "num_date_confidence": [
+      -8030.682935233873,
+      1823.4485239207472
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 2.8248100858854625e-05,
+        "country": "ZAF",
+        "country_confidence": {
+          "BTN": 0.015701201027141252,
+          "RUS": 0.005652319837951075,
+          "USA": 0.015701184079213906,
+          "ZAF": 0.9601446919829357
+        },
+        "country_entropy": 0.22110377078607688,
+        "date": "1817-10-19",
+        "div": 2.107358108808964e-05,
+        "num_date": 1817.8012293780866,
+        "num_date_confidence": [
+          -3130.3700908643896,
+          1877.857008695948
+        ]
+      },
+      "branch_length": 2.825e-05,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "SRR2968134",
+            "clock_length": 1.7369328190277413e-05,
+            "country": "ZAF",
+            "country_confidence": {
+              "ZAF": 0.9999999999999999
+            },
+            "country_entropy": -9.99866855976916e-13,
+            "date": "1939-12-30",
+            "div": 6.322061918898602e-05,
+            "num_date": 1939.9993155373031,
+            "num_date_confidence": [
+              1939.002737850787,
+              1939.9993155373031
+            ],
+            "raw_date": "1939-XX-XX"
+          },
+          "branch_length": 1.737e-05,
+          "clade": 0,
+          "muts": [
+            "T8295C",
+            "A26349G"
+          ],
+          "strain": "SouthAfrica_SRR2968134_AE017336.2",
+          "yvalue": 35
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "SRR5811089",
+            "clock_length": 1.2536542530279656e-05,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1905-12-30",
+            "div": 6.322156572965144e-05,
+            "num_date": 1905.9993155373031,
+            "num_date_confidence": [
+              1905.1023956194113,
+              1905.9993155373031
+            ],
+            "raw_date": "1905-XX-XX"
+          },
+          "branch_length": 1.254e-05,
+          "clade": 1,
+          "muts": [
+            "G25557A",
+            "C26660T"
+          ],
+          "strain": "UnitedStates_SRR5811089_AE017336.2",
+          "yvalue": 34
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "SRR5810980",
+            "clock_length": 2.7378430656656405e-05,
+            "country": "BTN",
+            "country_confidence": {
+              "BTN": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2010-06-01",
+            "div": 6.32216458471996e-05,
+            "num_date": 2010.416153319644,
+            "num_date_confidence": [
+              2010.416153319644,
+              2010.4876112255383
+            ],
+            "raw_date": "2010-06-XX"
+          },
+          "branch_length": 2.738e-05,
+          "clade": 2,
+          "muts": [
+            "G9827A",
+            "G11842A"
+          ],
+          "strain": "Bhutan_SRR5810980_AE017336.2",
+          "yvalue": 33
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 1.355625189853863e-05,
+            "country": "ZAF",
+            "country_confidence": {
+              "BTN": 0.0018021694103530258,
+              "SWE": 0.003546745220199472,
+              "USA": 0.0018021672046641128,
+              "ZAF": 0.9902904342642465
+            },
+            "country_entropy": 0.07199625726578193,
+            "date": "1913-03-04",
+            "div": 4.2146977658231416e-05,
+            "num_date": 1913.1732563987362,
+            "num_date_confidence": [
+              -1281.9893789139865,
+              1967.0844611915659
+            ]
+          },
+          "branch_length": 1.356e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 1.2269334492780317e-05,
+                "country": "ZAF",
+                "country_confidence": {
+                  "ZAF": 0.9996122210343317
+                },
+                "country_entropy": 0.004250144775852157,
+                "date": "1999-06-28",
+                "div": 0.00010536959415817199,
+                "num_date": 1999.4914592123746,
+                "num_date_confidence": [
+                  1966.2644687870472,
+                  1999.4914592123746
+                ]
+              },
+              "branch_length": 1.227e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "GCF_000167295",
+                    "clock_length": 6.412365503521647e-07,
+                    "country": "ZAF",
+                    "country_confidence": {
+                      "ZAF": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2004-01-01",
+                    "div": 0.00010536959415817753,
+                    "num_date": 2004.002737850787,
+                    "num_date_confidence": [
+                      2004.002737850787,
+                      2004.9021218344121
+                    ],
+                    "raw_date": "2004-XX-XX"
+                  },
+                  "branch_length": 6.4e-07,
+                  "clade": 3,
+                  "muts": [],
+                  "strain": "SouthAfrica_GCF_000167295_AE017336.2",
+                  "yvalue": 32
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "GCF_000181935",
+                    "clock_length": 1.2097995691754301e-06,
+                    "country": "ZAF",
+                    "country_confidence": {
+                      "ZAF": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2008-01-01",
+                    "div": 0.00010536959415817753,
+                    "num_date": 2008.002737850787,
+                    "num_date_confidence": [
+                      2008.002737850787,
+                      2008.901576515104
+                    ],
+                    "raw_date": "2008-XX-XX"
+                  },
+                  "branch_length": 1.21e-06,
+                  "clade": 4,
+                  "muts": [],
+                  "strain": "SouthAfrica_GCF_000181935_AE017336.2",
+                  "yvalue": 31
+                }
+              ],
+              "clade": 5,
+              "muts": [
+                "G59A",
+                "C31383T",
+                "C36033T"
+              ],
+              "strain": "NODE_0000024",
+              "yvalue": 31.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 1.1077340975700538e-05,
+                "country": "ZAF",
+                "country_confidence": {
+                  "BTN": 0.001556807935097203,
+                  "SWE": 0.06331368567000593,
+                  "ZAF": 0.9094969398546608,
+                  "ZWE": 0.018352548997521655
+                },
+                "country_entropy": 0.39638379747906227,
+                "date": "1991-02-07",
+                "div": 4.214697765823695e-05,
+                "num_date": 1991.1054511350517,
+                "num_date_confidence": [
+                  1883.3910327841663,
+                  2001.8584884707893
+                ]
+              },
+              "branch_length": 1.108e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "SRR974956",
+                    "clock_length": 3.20706278283294e-06,
+                    "country": "SWE",
+                    "country_confidence": {
+                      "SWE": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-09-01",
+                    "div": 4.214697765824249e-05,
+                    "num_date": 2013.6680355920603,
+                    "num_date_confidence": [
+                      2013.6680355920603,
+                      2013.7394934979545
+                    ],
+                    "raw_date": "2013-09-XX"
+                  },
+                  "branch_length": 3.21e-06,
+                  "clade": 6,
+                  "muts": [],
+                  "strain": "Sweden_SRR974956_AE017336.2",
+                  "yvalue": 30
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 2.4837228687075884e-06,
+                    "country": "ZAF",
+                    "country_confidence": {
+                      "BTN": 0.001141951161674809,
+                      "SWE": 0.018325280929450995,
+                      "ZAF": 0.9123237111522663,
+                      "ZWE": 0.06162094509002565
+                    },
+                    "country_entropy": 0.3843910923420376,
+                    "date": "2008-07-30",
+                    "div": 4.214697765824249e-05,
+                    "num_date": 2008.5791368056255,
+                    "num_date_confidence": [
+                      1964.4764460581616,
+                      2008.5791368056255
+                    ]
+                  },
+                  "branch_length": 2.48e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GCA_000743805",
+                        "clock_length": 7.709147457825193e-07,
+                        "country": "ZWE",
+                        "country_confidence": {
+                          "ZWE": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2014-01-01",
+                        "div": 4.2146977658248025e-05,
+                        "num_date": 2014.002737850787,
+                        "num_date_confidence": [
+                          2014.002737850787,
+                          2014.8996577686794
+                        ],
+                        "raw_date": "2014-XX-XX"
+                      },
+                      "branch_length": 7.7e-07,
+                      "clade": 7,
+                      "muts": [],
+                      "strain": "Zimbabwe_GCA_000743805_AE017336.2",
+                      "yvalue": 29
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "SRR2174564",
+                        "clock_length": 7.709147457825193e-07,
+                        "country": "ZAF",
+                        "country_confidence": {
+                          "ZAF": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2014-01-01",
+                        "div": 4.2146977658248025e-05,
+                        "num_date": 2014.002737850787,
+                        "num_date_confidence": [
+                          2014.002737850787,
+                          2014.8996577686794
+                        ],
+                        "raw_date": "2014-XX-XX"
+                      },
+                      "branch_length": 7.7e-07,
+                      "clade": 8,
+                      "muts": [],
+                      "strain": "SouthAfrica_SRR2174564_AE017336.2",
+                      "yvalue": 28
+                    }
+                  ],
+                  "clade": 9,
+                  "muts": [],
+                  "strain": "NODE_0000006",
+                  "yvalue": 28.5
+                }
+              ],
+              "clade": 10,
+              "muts": [],
+              "strain": "NODE_0000005",
+              "yvalue": 29.25
+            }
+          ],
+          "clade": 11,
+          "muts": [
+            "T4416C"
+          ],
+          "strain": "NODE_0000023",
+          "yvalue": 30.375
+        }
+      ],
+      "clade": 12,
+      "muts": [
+        "G21958A",
+        "C33992A",
+        "C45886A"
+      ],
+      "strain": "NODE_0000020",
+      "yvalue": 32.6875
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 2.7902347091292612e-05,
+        "country": "RUS",
+        "country_confidence": {
+          "FRA": 0.0447108599699687,
+          "RUS": 0.8945808320054385,
+          "SVK": 0.03170806329451312,
+          "ZAF": 0.012857740924284107
+        },
+        "country_entropy": 0.489403221274459,
+        "date": "1815-05-14",
+        "div": 4.214739000725086e-05,
+        "num_date": 1815.368754833558,
+        "num_date_confidence": [
+          -5696.129935931744,
+          1892.9139680183714
+        ]
+      },
+      "branch_length": 2.79e-05,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "GCA_003064045",
+            "clock_length": 2.2264072558647e-05,
+            "country": "SVK",
+            "country_confidence": {
+              "SVK": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1972-01-01",
+            "div": 8.429473009096474e-05,
+            "num_date": 1972.002737850787,
+            "num_date_confidence": [
+              1972.002737850787,
+              1972.9021218344121
+            ],
+            "raw_date": "1972-XX-XX"
+          },
+          "branch_length": 2.226e-05,
+          "clade": 13,
+          "muts": [
+            "A14100T",
+            "A15329G"
+          ],
+          "strain": "Slovakia_GCA_003064045_AE017336.2",
+          "yvalue": 27
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 2.460742248474542e-05,
+            "country": "RUS",
+            "country_confidence": {
+              "FRA": 0.0011735212287871648,
+              "RUS": 0.9968444770140675
+            },
+            "country_entropy": 0.026886834677591898,
+            "date": "1988-06-27",
+            "div": 0.0002107504029863473,
+            "num_date": 1988.4888605743392,
+            "num_date_confidence": [
+              1963.6356486992156,
+              1988.4888605743392
+            ]
+          },
+          "branch_length": 2.461e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "ERR3170362",
+                "clock_length": 4.005798364183295e-06,
+                "country": "RUS",
+                "country_confidence": {
+                  "RUS": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2016-09-01",
+                "div": 0.00021075040298635284,
+                "num_date": 2016.6707734428473,
+                "num_date_confidence": [
+                  2016.6707734428473,
+                  2016.7422313487416
+                ],
+                "raw_date": "2016-09-XX"
+              },
+              "branch_length": 4.01e-06,
+              "clade": 14,
+              "muts": [],
+              "strain": "Russia_Yakutia_ERR3170362_AE017336.2",
+              "yvalue": 26
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "ERR3170365",
+                "clock_length": 7.6736797135848e-07,
+                "country": "RUS",
+                "country_confidence": {
+                  "RUS": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "1993-11-20",
+                "div": 0.00021075040298635284,
+                "num_date": 1993.8875090685497,
+                "num_date_confidence": [
+                  1993.002737850787,
+                  1993.9993155373031
+                ],
+                "raw_date": "1993-XX-XX"
+              },
+              "branch_length": 7.7e-07,
+              "clade": 15,
+              "muts": [],
+              "strain": "Russia_Stavropol_ERR3170365_AE017336.2",
+              "yvalue": 25
+            }
+          ],
+          "clade": 16,
+          "muts": [
+            "G4711A",
+            "A6681G",
+            "G10865A",
+            "A13976G",
+            "G24179A",
+            "A24818C",
+            "C32662T",
+            "T36292C"
+          ],
+          "strain": "NODE_0000000",
+          "yvalue": 25.5
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 7.261310868861266e-06,
+            "country": "FRA",
+            "country_confidence": {
+              "FRA": 0.9728289599002083,
+              "RUS": 0.02283297580205782
+            },
+            "country_entropy": 0.14670802289678775,
+            "date": "1866-06-14",
+            "div": 6.322062390379624e-05,
+            "num_date": 1866.4541095151883,
+            "num_date_confidence": [
+              -2513.50840534259,
+              1932.14686796023
+            ]
+          },
+          "branch_length": 7.26e-06,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 1.748825237058997e-05,
+                "country": "FRA",
+                "country_confidence": {
+                  "FRA": 0.9991930000542864
+                },
+                "country_entropy": 0.007610193177373781,
+                "date": "1989-06-27",
+                "div": 0.00010536791925617309,
+                "num_date": 1989.4888605743392,
+                "num_date_confidence": [
+                  1949.4896083919161,
+                  1989.4888605743392
+                ]
+              },
+              "branch_length": 1.749e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "ERR1596603",
+                    "clock_length": 6.416059227237236e-07,
+                    "country": "FRA",
+                    "country_confidence": {
+                      "FRA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "1994-01-01",
+                    "div": 0.00010536791925617862,
+                    "num_date": 1994.002737850787,
+                    "num_date_confidence": [
+                      1994.002737850787,
+                      1994.8996577687035
+                    ],
+                    "raw_date": "1994-XX-XX"
+                  },
+                  "branch_length": 6.4e-07,
+                  "clade": 17,
+                  "muts": [],
+                  "strain": "France_ERR1596603_AE017336.2",
+                  "yvalue": 24
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "GCF_000832745",
+                    "clock_length": 1.210168941546989e-06,
+                    "country": "FRA",
+                    "country_confidence": {
+                      "FRA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "1998-01-01",
+                    "div": 0.00010536791925617862,
+                    "num_date": 1998.002737850787,
+                    "num_date_confidence": [
+                      1998.002737850787,
+                      1998.8996577686794
+                    ],
+                    "raw_date": "1998-XX-XX"
+                  },
+                  "branch_length": 1.21e-06,
+                  "clade": 18,
+                  "muts": [],
+                  "strain": "France_GCF_000832745_AE017336.2",
+                  "yvalue": 23
+                }
+              ],
+              "clade": 19,
+              "muts": [
+                "C30861T",
+                "A35873G"
+              ],
+              "strain": "NODE_0000029",
+              "yvalue": 23.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 7.208962076779509e-06,
+                "country": "FRA",
+                "country_confidence": {
+                  "FRA": 0.9991714798139595
+                },
+                "country_entropy": 0.007788690014401364,
+                "date": "1917-03-03",
+                "div": 8.429411802503251e-05,
+                "num_date": 1917.1711757900905,
+                "num_date_confidence": [
+                  654.0916191507422,
+                  1955.2480669287131
+                ]
+              },
+              "branch_length": 7.21e-06,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "ERR1596643",
+                    "clock_length": 1.1773740744769084e-05,
+                    "country": "FRA",
+                    "country_confidence": {
+                      "FRA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2000-01-01",
+                    "div": 0.00010536788995118524,
+                    "num_date": 2000.002737850787,
+                    "num_date_confidence": [
+                      2000.002737850787,
+                      2001.0020533880904
+                    ],
+                    "raw_date": "2000-XX-XX"
+                  },
+                  "branch_length": 1.177e-05,
+                  "clade": 20,
+                  "muts": [
+                    "G5238A"
+                  ],
+                  "strain": "France_ERR1596643_AE017336.2",
+                  "yvalue": 22
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.052540728697225e-06,
+                    "country": "FRA",
+                    "country_confidence": {
+                      "FRA": 0.9998881773160102
+                    },
+                    "country_entropy": 0.0013896253439327393,
+                    "date": "1959-10-01",
+                    "div": 8.429411802503804e-05,
+                    "num_date": 1959.7524941545803,
+                    "num_date_confidence": [
+                      1694.243781131082,
+                      1966.7330827313954
+                    ]
+                  },
+                  "branch_length": 6.05e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "ERR1596608",
+                        "clock_length": 5.863340770777676e-06,
+                        "country": "FRA",
+                        "country_confidence": {
+                          "FRA": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2001-01-01",
+                        "div": 8.429411802504357e-05,
+                        "num_date": 2001.002737850787,
+                        "num_date_confidence": [
+                          2001.002737850787,
+                          2001.8996577686794
+                        ],
+                        "raw_date": "2001-XX-XX"
+                      },
+                      "branch_length": 5.86e-06,
+                      "clade": 21,
+                      "muts": [],
+                      "strain": "France_ERR1596608_AE017336.2",
+                      "yvalue": 21
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 4.070704178948035e-08,
+                        "country": "FRA",
+                        "country_confidence": {
+                          "FRA": 0.9999074662508733
+                        },
+                        "country_entropy": 0.0011778132937866918,
+                        "date": "1960-01-14",
+                        "div": 8.429411802504357e-05,
+                        "num_date": 1960.0388795890303,
+                        "num_date_confidence": [
+                          1779.2723419600834,
+                          1968.7785846663369
+                        ]
+                      },
+                      "branch_length": 4e-08,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "ERR1596628",
+                            "clock_length": 6.106915238399829e-06,
+                            "country": "FRA",
+                            "country_confidence": {
+                              "FRA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2003-01-01",
+                            "div": 8.42941180250491e-05,
+                            "num_date": 2003.002737850787,
+                            "num_date_confidence": [
+                              2003.002737850787,
+                              2003.899472568285
+                            ],
+                            "raw_date": "2003-XX-XX"
+                          },
+                          "branch_length": 6.11e-06,
+                          "clade": 22,
+                          "muts": [],
+                          "strain": "France_ERR1596628_AE017336.2",
+                          "yvalue": 20
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 1.7735651670152845e-06,
+                            "country": "FRA",
+                            "country_confidence": {
+                              "FRA": 0.9999080349701825
+                            },
+                            "country_entropy": 0.0011713878976471752,
+                            "date": "1972-07-07",
+                            "div": 8.42941180250491e-05,
+                            "num_date": 1972.5164070278424,
+                            "num_date_confidence": [
+                              1864.6757304642254,
+                              1981.515067182064
+                            ]
+                          },
+                          "branch_length": 1.77e-06,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "ERR1596593",
+                                "clock_length": 5.470476109031075e-06,
+                                "country": "FRA",
+                                "country_confidence": {
+                                  "FRA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2011-01-01",
+                                "div": 8.429411802505463e-05,
+                                "num_date": 2011.002737850787,
+                                "num_date_confidence": [
+                                  2011.002737850787,
+                                  2011.899196005833
+                                ],
+                                "raw_date": "2011-XX-XX"
+                              },
+                              "branch_length": 5.47e-06,
+                              "clade": 23,
+                              "muts": [],
+                              "strain": "France_ERR1596593_AE017336.2",
+                              "yvalue": 19
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 2.128565219268399e-06,
+                                "country": "FRA",
+                                "country_confidence": {
+                                  "FRA": 0.9999102291993062
+                                },
+                                "country_entropy": 0.0011457433039840843,
+                                "date": "1987-06-28",
+                                "div": 8.429411802505463e-05,
+                                "num_date": 1987.4914592123746,
+                                "num_date_confidence": [
+                                  1964.2496175815638,
+                                  1987.4914592123746
+                                ]
+                              },
+                              "branch_length": 2.13e-06,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "ERR1596624",
+                                    "clock_length": 2.346925606821962e-06,
+                                    "country": "FRA",
+                                    "country_confidence": {
+                                      "FRA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2004-01-01",
+                                    "div": 8.429411802506016e-05,
+                                    "num_date": 2004.002737850787,
+                                    "num_date_confidence": [
+                                      2004.002737850787,
+                                      2004.9016239306281
+                                    ],
+                                    "raw_date": "2004-XX-XX"
+                                  },
+                                  "branch_length": 2.35e-06,
+                                  "clade": 24,
+                                  "muts": [],
+                                  "strain": "France_ERR1596624_AE017336.2",
+                                  "yvalue": 18
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "ERR1596645",
+                                    "clock_length": 6.412365503521647e-07,
+                                    "country": "FRA",
+                                    "country_confidence": {
+                                      "FRA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "1992-01-01",
+                                    "div": 8.429411802506016e-05,
+                                    "num_date": 1992.002737850787,
+                                    "num_date_confidence": [
+                                      1992.002737850787,
+                                      1992.90077892003
+                                    ],
+                                    "raw_date": "1992-XX-XX"
+                                  },
+                                  "branch_length": 6.4e-07,
+                                  "clade": 25,
+                                  "muts": [],
+                                  "strain": "France_ERR1596645_AE017336.2",
+                                  "yvalue": 17
+                                }
+                              ],
+                              "clade": 26,
+                              "muts": [],
+                              "strain": "NODE_0000016",
+                              "yvalue": 17.5
+                            }
+                          ],
+                          "clade": 27,
+                          "muts": [],
+                          "strain": "NODE_0000014",
+                          "yvalue": 18.25
+                        }
+                      ],
+                      "clade": 28,
+                      "muts": [],
+                      "strain": "NODE_0000013",
+                      "yvalue": 19.125
+                    }
+                  ],
+                  "clade": 29,
+                  "muts": [],
+                  "strain": "NODE_0000012",
+                  "yvalue": 20.0625
+                }
+              ],
+              "clade": 30,
+              "muts": [
+                "G8092A"
+              ],
+              "strain": "NODE_0000030",
+              "yvalue": 21.03125
+            }
+          ],
+          "clade": 31,
+          "muts": [
+            "C13352T"
+          ],
+          "strain": "NODE_0000028",
+          "yvalue": 22.265625
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 6.677971888541526e-06,
+            "country": "RUS",
+            "country_confidence": {
+              "CHE": 0.05650849616854907,
+              "FRA": 0.02148233774368122,
+              "RUS": 0.898548322722256,
+              "SVK": 0.010179085596086612
+            },
+            "country_entropy": 0.4720722332787356,
+            "date": "1862-05-07",
+            "div": 4.21473900072564e-05,
+            "num_date": 1862.3501564897026,
+            "num_date_confidence": [
+              -467.2393380973633,
+              1926.298076852928
+            ]
+          },
+          "branch_length": 6.68e-06,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 6.997279376273073e-06,
+                "country": "CHE",
+                "country_confidence": {
+                  "CHE": 0.8574728885372259,
+                  "DEU": 0.010775305486605454,
+                  "FRA": 0.02291929261060739,
+                  "RUS": 0.08748171831007445
+                },
+                "country_entropy": 0.6000785227628728,
+                "date": "1911-07-30",
+                "div": 4.2147390007261934e-05,
+                "num_date": 1911.5779757084417,
+                "num_date_confidence": [
+                  1783.0636109892462,
+                  1938.2277609838493
+                ]
+              },
+              "branch_length": 7e-06,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 8.15878108252674e-08,
+                    "country": "CHE",
+                    "country_confidence": {
+                      "CHE": 0.9965157539935265,
+                      "RUS": 0.0019066887325514344
+                    },
+                    "country_entropy": 0.02869034448048044,
+                    "date": "1912-02-24",
+                    "div": 4.214739000726747e-05,
+                    "num_date": 1912.1519687971524,
+                    "num_date_confidence": [
+                      1849.1142862902907,
+                      1949.2737019690828
+                    ]
+                  },
+                  "branch_length": 8e-08,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "ERR899846",
+                        "clock_length": 6.516776466904257e-06,
+                        "country": "CHE",
+                        "country_confidence": {
+                          "CHE": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "1957-12-30",
+                        "div": 6.322090978818855e-05,
+                        "num_date": 1957.9993155373031,
+                        "num_date_confidence": [
+                          1957.002737850787,
+                          1957.9993155373031
+                        ],
+                        "raw_date": "1957-XX-XX"
+                      },
+                      "branch_length": 6.52e-06,
+                      "clade": 32,
+                      "muts": [
+                        "A37811T"
+                      ],
+                      "strain": "Switzerland_ERR899846_AE017336.2",
+                      "yvalue": 16
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "ERR899847",
+                        "clock_length": 6.9435878911988835e-06,
+                        "country": "CHE",
+                        "country_confidence": {
+                          "CHE": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "1961-01-01",
+                        "div": 6.322040124487086e-05,
+                        "num_date": 1961.0020533880904,
+                        "num_date_confidence": [
+                          1960.002737850787,
+                          1961.0020533880904
+                        ],
+                        "raw_date": "1960-XX-XX"
+                      },
+                      "branch_length": 6.94e-06,
+                      "clade": 33,
+                      "muts": [
+                        "A39031G"
+                      ],
+                      "strain": "Switzerland_ERR899847_AE017336.2",
+                      "yvalue": 15
+                    }
+                  ],
+                  "clade": 34,
+                  "muts": [],
+                  "strain": "NODE_0000021",
+                  "yvalue": 15.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 9.4749647194092e-08,
+                    "country": "CHE",
+                    "country_confidence": {
+                      "CHE": 0.8303745345997305,
+                      "DEU": 0.0359871157352494,
+                      "FRA": 0.048835767000895654,
+                      "RUS": 0.036348720885964886
+                    },
+                    "country_entropy": 0.743507742639627,
+                    "date": "1912-03-30",
+                    "div": 4.214739000726747e-05,
+                    "num_date": 1912.2445660005096,
+                    "num_date_confidence": [
+                      1857.1885011888137,
+                      1951.4576701603169
+                    ]
+                  },
+                  "branch_length": 9e-08,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.114469489994539e-05,
+                        "country": "DEU",
+                        "country_confidence": {
+                          "CHE": 0.26410415841158735,
+                          "DEU": 0.33747505403010036,
+                          "FIN": 0.3374748643593341,
+                          "FRA": 0.017257569612980077
+                        },
+                        "country_entropy": 1.3850511882531487,
+                        "date": "1990-08-25",
+                        "div": 4.2147390007273006e-05,
+                        "num_date": 1990.6506144488324,
+                        "num_date_confidence": [
+                          1925.4410630491304,
+                          2003.1137485760637
+                        ]
+                      },
+                      "branch_length": 1.114e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GCA_003063925",
+                            "clock_length": 2.466443916102311e-06,
+                            "country": "FIN",
+                            "country_confidence": {
+                              "FIN": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2008-01-01",
+                            "div": 4.214739000727854e-05,
+                            "num_date": 2008.002737850787,
+                            "num_date_confidence": [
+                              2008.002737850787,
+                              2008.9016326787048
+                            ],
+                            "raw_date": "2008-XX-XX"
+                          },
+                          "branch_length": 2.47e-06,
+                          "clade": 35,
+                          "muts": [],
+                          "strain": "Finland_GCA_003063925_AE017336.2",
+                          "yvalue": 14
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GCF_000295695",
+                            "clock_length": 2.6790226628731647e-06,
+                            "country": "DEU",
+                            "country_confidence": {
+                              "DEU": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2009-06-30",
+                            "div": 4.214739000727854e-05,
+                            "num_date": 2009.498288843258,
+                            "num_date_confidence": [
+                              2009.498288843258,
+                              2009.572210814849
+                            ],
+                            "raw_date": "2009-07-XX"
+                          },
+                          "branch_length": 2.68e-06,
+                          "clade": 36,
+                          "muts": [],
+                          "strain": "Germany_GCF_000295695_AE017336.2",
+                          "yvalue": 13
+                        }
+                      ],
+                      "clade": 37,
+                      "muts": [],
+                      "strain": "NODE_0000025",
+                      "yvalue": 13.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 6.6504939846237435e-06,
+                        "country": "CHE",
+                        "country_confidence": {
+                          "CHE": 0.8546431270940237,
+                          "DEU": 0.010420152239667104,
+                          "FRA": 0.10395378616727129,
+                          "RUS": 0.012546272617341071
+                        },
+                        "country_entropy": 0.5759024690128601,
+                        "date": "1959-01-11",
+                        "div": 4.2147390007273006e-05,
+                        "num_date": 1959.0326529104746,
+                        "num_date_confidence": [
+                          1903.1683274426346,
+                          1959.0326529104746
+                        ]
+                      },
+                      "branch_length": 6.65e-06,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GCA_000697555",
+                            "clock_length": 5.823518793777425e-06,
+                            "country": "FRA",
+                            "country_confidence": {
+                              "FRA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2000-01-01",
+                            "div": 4.214739000727854e-05,
+                            "num_date": 2000.002737850787,
+                            "num_date_confidence": [
+                              2000.002737850787,
+                              2000.9021218343878
+                            ],
+                            "raw_date": "2000-XX-XX"
+                          },
+                          "branch_length": 5.82e-06,
+                          "clade": 38,
+                          "muts": [],
+                          "strain": "France_GCA_000697555_AE017336.2",
+                          "yvalue": 12
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GCA_003064015",
+                            "clock_length": 1.5592961526029334e-06,
+                            "country": "CHE",
+                            "country_confidence": {
+                              "CHE": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "1970-01-01",
+                            "div": 6.322061549982212e-05,
+                            "num_date": 1970.002737850787,
+                            "num_date_confidence": [
+                              1970.002737850787,
+                              1970.9993155373031
+                            ],
+                            "raw_date": "1970-XX-XX"
+                          },
+                          "branch_length": 1.56e-06,
+                          "clade": 39,
+                          "muts": [
+                            "T32887G"
+                          ],
+                          "strain": "Switzerland_GCA_003064015_AE017336.2",
+                          "yvalue": 11
+                        }
+                      ],
+                      "clade": 40,
+                      "muts": [],
+                      "strain": "NODE_0000026",
+                      "yvalue": 11.5
+                    }
+                  ],
+                  "clade": 41,
+                  "muts": [],
+                  "strain": "NODE_0000022",
+                  "yvalue": 12.5
+                }
+              ],
+              "clade": 42,
+              "muts": [],
+              "strain": "NODE_0000018",
+              "yvalue": 14.0
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 6.577885113795904e-07,
+                "country": "RUS",
+                "country_confidence": {
+                  "AUT": 0.0037101034845679966,
+                  "CHE": 0.003705097866129742,
+                  "FRA": 0.0015588210451059348,
+                  "RUS": 0.9879951657491423
+                },
+                "country_entropy": 0.0871274173578172,
+                "date": "1866-12-23",
+                "div": 4.2147390007261934e-05,
+                "num_date": 1866.9778828074711,
+                "num_date_confidence": [
+                  -466.9067730501499,
+                  1943.3559050455178
+                ]
+              },
+              "branch_length": 6.6e-07,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.998301030759747e-06,
+                    "country": "RUS",
+                    "country_confidence": {
+                      "AUT": 0.031082183634486272,
+                      "CHE": 0.0014411547917815846,
+                      "RUS": 0.9626278404036549
+                    },
+                    "country_entropy": 0.19086428357728843,
+                    "date": "1916-03-18",
+                    "div": 6.322072116660454e-05,
+                    "num_date": 1916.2128896515244,
+                    "num_date_confidence": [
+                      1878.4899631876192,
+                      1970.6855618608236
+                    ]
+                  },
+                  "branch_length": 7e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GCF_001936375",
+                        "clock_length": 1.0204263203259198e-05,
+                        "country": "AUT",
+                        "country_confidence": {
+                          "AUT": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "1988-01-01",
+                        "div": 8.429385211577673e-05,
+                        "num_date": 1988.002737850787,
+                        "num_date_confidence": [
+                          1988.002737850787,
+                          1989.0020533880904
+                        ],
+                        "raw_date": "1988-XX-XX"
+                      },
+                      "branch_length": 1.02e-05,
+                      "clade": 43,
+                      "muts": [
+                        "G4118A"
+                      ],
+                      "strain": "Austria_GCF_001936375_AE017336.2",
+                      "yvalue": 10
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "ERR3170368",
+                        "clock_length": 1.4610626599139507e-05,
+                        "country": "RUS",
+                        "country_confidence": {
+                          "RUS": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2019-01-01",
+                        "div": 6.322072116661007e-05,
+                        "num_date": 2019.002737850787,
+                        "num_date_confidence": [
+                          2019.002737850787,
+                          2019.8996577686794
+                        ],
+                        "raw_date": "2019-XX-XX"
+                      },
+                      "branch_length": 1.461e-05,
+                      "clade": 44,
+                      "muts": [],
+                      "strain": "Russia_ERR3170368_AE017336.2",
+                      "yvalue": 9
+                    }
+                  ],
+                  "clade": 45,
+                  "muts": [
+                    "T43233A"
+                  ],
+                  "strain": "NODE_0000004",
+                  "yvalue": 9.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.844359481015917e-06,
+                    "country": "RUS",
+                    "country_confidence": {
+                      "EST": 0.0027124714719735867,
+                      "RUS": 0.9957752876094363
+                    },
+                    "country_entropy": 0.0325309549348889,
+                    "date": "1915-02-16",
+                    "div": 6.322062390380731e-05,
+                    "num_date": 1915.129867754937,
+                    "num_date_confidence": [
+                      1745.760235898276,
+                      1943.806070380451
+                    ]
+                  },
+                  "branch_length": 6.84e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "ERR3170367",
+                        "clock_length": 1.4764568148883337e-05,
+                        "country": "EST",
+                        "country_confidence": {
+                          "EST": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2019-01-01",
+                        "div": 8.429411802504359e-05,
+                        "num_date": 2019.002737850787,
+                        "num_date_confidence": [
+                          2019.002737850787,
+                          2019.9993155373031
+                        ],
+                        "raw_date": "2019-XX-XX"
+                      },
+                      "branch_length": 1.476e-05,
+                      "clade": 46,
+                      "muts": [
+                        "G25974A"
+                      ],
+                      "strain": "Estonia_ERR3170367_AE017336.2",
+                      "yvalue": 8
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.0571179505348976e-05,
+                        "country": "RUS",
+                        "country_confidence": {
+                          "EST": 0.0011826800469756833,
+                          "KOR": 0.027746524420066414,
+                          "RUS": 0.9674015870803225
+                        },
+                        "country_entropy": 0.16860651678312813,
+                        "date": "1989-07-02",
+                        "div": 6.322062390381284e-05,
+                        "num_date": 1989.501074853336,
+                        "num_date_confidence": [
+                          1875.6125924731232,
+                          2000.0394643909406
+                        ]
+                      },
+                      "branch_length": 1.057e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GCF_000725325",
+                            "clock_length": 2.7719810964761976e-06,
+                            "country": "KOR",
+                            "country_confidence": {
+                              "KOR": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-01-01",
+                            "div": 6.322062390381837e-05,
+                            "num_date": 2009.002737850787,
+                            "num_date_confidence": [
+                              2009.002737850787,
+                              2009.8996577686794
+                            ],
+                            "raw_date": "2009-XX-XX"
+                          },
+                          "branch_length": 2.77e-06,
+                          "clade": 47,
+                          "muts": [],
+                          "strain": "Korea_GCF_000725325_AE017336.2",
+                          "yvalue": 7
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 2.4362549344139087e-06,
+                            "country": "RUS",
+                            "country_confidence": {
+                              "RUS": 0.9989308410104704
+                            },
+                            "country_entropy": 0.009884022306226427,
+                            "date": "2006-08-22",
+                            "div": 6.322062390381837e-05,
+                            "num_date": 2006.64081031806,
+                            "num_date_confidence": [
+                              1959.7775654485404,
+                              2006.64081031806
+                            ]
+                          },
+                          "branch_length": 2.44e-06,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "ERR3170364",
+                                "clock_length": 1.4256665282287983e-06,
+                                "country": "RUS",
+                                "country_confidence": {
+                                  "RUS": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2016-09-01",
+                                "div": 6.32206239038239e-05,
+                                "num_date": 2016.6707734428473,
+                                "num_date_confidence": [
+                                  2016.6707734428473,
+                                  2016.7422313487416
+                                ],
+                                "raw_date": "2016-09-XX"
+                              },
+                              "branch_length": 1.43e-06,
+                              "clade": 48,
+                              "muts": [],
+                              "strain": "Russia_Yakutia_ERR3170364_AE017336.2",
+                              "yvalue": 6
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "ERR3170366",
+                                "clock_length": 1.7571337091204526e-06,
+                                "country": "RUS",
+                                "country_confidence": {
+                                  "RUS": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2019-01-01",
+                                "div": 6.32206239038239e-05,
+                                "num_date": 2019.002737850787,
+                                "num_date_confidence": [
+                                  2019.002737850787,
+                                  2019.8996577686794
+                                ],
+                                "raw_date": "2019-XX-XX"
+                              },
+                              "branch_length": 1.76e-06,
+                              "clade": 49,
+                              "muts": [],
+                              "strain": "Russia_Siberia_ERR3170366_AE017336.2",
+                              "yvalue": 5
+                            }
+                          ],
+                          "clade": 50,
+                          "muts": [],
+                          "strain": "NODE_0000032",
+                          "yvalue": 5.5
+                        }
+                      ],
+                      "clade": 51,
+                      "muts": [],
+                      "strain": "NODE_0000031",
+                      "yvalue": 6.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 7.3791228025668045e-06,
+                        "country": "RUS",
+                        "country_confidence": {
+                          "RUS": 0.9997354335230909
+                        },
+                        "country_entropy": 0.0030192597650732017,
+                        "date": "1967-01-16",
+                        "div": 8.429384843796927e-05,
+                        "num_date": 1967.0440623702614,
+                        "num_date_confidence": [
+                          1811.5836700473533,
+                          1984.8118048876504
+                        ]
+                      },
+                      "branch_length": 7.38e-06,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "ERR3170361",
+                            "clock_length": 7.041525039755911e-06,
+                            "country": "RUS",
+                            "country_confidence": {
+                              "RUS": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2016-07-31",
+                            "div": 0.00010536709175919238,
+                            "num_date": 2016.583162217659,
+                            "num_date_confidence": [
+                              2016.5092402460737,
+                              2016.583162217659
+                            ],
+                            "raw_date": "2016-07-XX"
+                          },
+                          "branch_length": 7.04e-06,
+                          "clade": 52,
+                          "muts": [
+                            "C24133A"
+                          ],
+                          "strain": "Russia_Yamal_ERR3170361_AE017336.2",
+                          "yvalue": 4
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 3.6135590708432446e-06,
+                            "country": "RUS",
+                            "country_confidence": {
+                              "RUS": 0.9998527265931639
+                            },
+                            "country_entropy": 0.0018060299180698474,
+                            "date": "1992-06-19",
+                            "div": 8.42938484379748e-05,
+                            "num_date": 1992.466462007312,
+                            "num_date_confidence": [
+                              1896.8213975106191,
+                              1996.9398014588041
+                            ]
+                          },
+                          "branch_length": 3.61e-06,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "ERR3170360",
+                                "clock_length": 3.416291163598023e-06,
+                                "country": "RUS",
+                                "country_confidence": {
+                                  "RUS": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2016-07-01",
+                                "div": 8.429384843798033e-05,
+                                "num_date": 2016.501026694045,
+                                "num_date_confidence": [
+                                  2016.501026694045,
+                                  2016.5749486656362
+                                ],
+                                "raw_date": "2016-07-XX"
+                              },
+                              "branch_length": 3.42e-06,
+                              "clade": 53,
+                              "muts": [],
+                              "strain": "Russia_Yamal_ERR3170360_AE017336.2",
+                              "yvalue": 3
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 2.366260714357709e-06,
+                                "country": "RUS",
+                                "country_confidence": {
+                                  "RUS": 0.9998601319542931
+                                },
+                                "country_entropy": 0.0017231153968941242,
+                                "date": "2009-02-10",
+                                "div": 8.429384843798033e-05,
+                                "num_date": 2009.1137685398758,
+                                "num_date_confidence": [
+                                  1973.0575128401313,
+                                  2009.1137685398758
+                                ]
+                              },
+                              "branch_length": 2.37e-06,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "ERR3170358",
+                                    "clock_length": 1.050030449240314e-06,
+                                    "country": "RUS",
+                                    "country_confidence": {
+                                      "RUS": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2016-07-01",
+                                    "div": 8.429384843798586e-05,
+                                    "num_date": 2016.501026694045,
+                                    "num_date_confidence": [
+                                      2016.501026694045,
+                                      2016.5749486656362
+                                    ],
+                                    "raw_date": "2016-07-XX"
+                                  },
+                                  "branch_length": 1.05e-06,
+                                  "clade": 54,
+                                  "muts": [],
+                                  "strain": "Russia_Yamal_ERR3170358_AE017336.2",
+                                  "yvalue": 2
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "ERR3170359",
+                                    "clock_length": 1.050030449240314e-06,
+                                    "country": "RUS",
+                                    "country_confidence": {
+                                      "RUS": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2016-07-01",
+                                    "div": 8.429384843798586e-05,
+                                    "num_date": 2016.501026694045,
+                                    "num_date_confidence": [
+                                      2016.501026694045,
+                                      2016.5749486656362
+                                    ],
+                                    "raw_date": "2016-07-XX"
+                                  },
+                                  "branch_length": 1.05e-06,
+                                  "clade": 55,
+                                  "muts": [],
+                                  "strain": "Russia_Yamal_ERR3170359_AE017336.2",
+                                  "yvalue": 1
+                                }
+                              ],
+                              "clade": 56,
+                              "muts": [],
+                              "strain": "NODE_0000035",
+                              "yvalue": 1.5
+                            }
+                          ],
+                          "clade": 57,
+                          "muts": [],
+                          "strain": "NODE_0000034",
+                          "yvalue": 2.25
+                        }
+                      ],
+                      "clade": 58,
+                      "muts": [
+                        "A21059G"
+                      ],
+                      "strain": "NODE_0000015",
+                      "yvalue": 3.125
+                    }
+                  ],
+                  "clade": 59,
+                  "muts": [
+                    "C25417T"
+                  ],
+                  "strain": "NODE_0000011",
+                  "yvalue": 5.5625
+                }
+              ],
+              "clade": 60,
+              "muts": [],
+              "strain": "NODE_0000027",
+              "yvalue": 7.53125
+            }
+          ],
+          "clade": 61,
+          "muts": [],
+          "strain": "NODE_0000017",
+          "yvalue": 10.765625
+        }
+      ],
+      "clade": 62,
+      "muts": [],
+      "strain": "NODE_0000019",
+      "yvalue": 18.8828125
+    }
+  ],
+  "clade": 63,
+  "muts": [],
+  "strain": "NODE_0000001",
+  "yvalue": 25.78515625
+}

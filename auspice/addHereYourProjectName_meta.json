@@ -1,0 +1,170 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 181654,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "FRA",
+          "#ffeda0"
+        ],
+        [
+          "EST",
+          "#f03b20"
+        ],
+        [
+          "RUS",
+          "#de2d26"
+        ],
+        [
+          "CHE",
+          "#edf8b1"
+        ],
+        [
+          "ZWE",
+          "#99d8c9"
+        ],
+        [
+          "FIN",
+          "#feb24c"
+        ],
+        [
+          "SVK",
+          "#feb24c"
+        ],
+        [
+          "DEU",
+          "#fff7bc"
+        ],
+        [
+          "ZAF",
+          "#2ca25f"
+        ],
+        [
+          "KOR",
+          "#756bb1"
+        ],
+        [
+          "AUT",
+          "#fec44f"
+        ],
+        [
+          "BTN",
+          "#bcbddc"
+        ],
+        [
+          "USA",
+          "#3182bd"
+        ],
+        [
+          "SWE",
+          "#ffeda0"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "AUT": {
+        "latitude": 47.251523,
+        "longitude": 11.542847
+      },
+      "BTN": {
+        "latitude": 27.260392,
+        "longitude": 90.329606
+      },
+      "CHE": {
+        "latitude": 46.898197,
+        "longitude": 8.386082
+      },
+      "DEU": {
+        "latitude": 50.925786,
+        "longitude": 10.321787
+      },
+      "EST": {
+        "latitude": 58.537887,
+        "longitude": 25.678706
+      },
+      "FIN": {
+        "latitude": 61.834226,
+        "longitude": 25.511967
+      },
+      "FRA": {
+        "latitude": 47.089414,
+        "longitude": 2.800679
+      },
+      "KOR": {
+        "latitude": 35.498208,
+        "longitude": 128.49003
+      },
+      "RUS": {
+        "latitude": 55.339822,
+        "longitude": 37.79813
+      },
+      "SVK": {
+        "latitude": 48.603382,
+        "longitude": 19.097034
+      },
+      "SWE": {
+        "latitude": 59.187606,
+        "longitude": 16.147953
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "ZAF": {
+        "latitude": -30.33,
+        "longitude": 22.56
+      },
+      "ZWE": {
+        "latitude": -19.334981,
+        "longitude": 30.241438
+      }
+    }
+  },
+  "maintainer": [
+    "Christopher Jossart",
+    "https://github.com/cjjossart/Nextstrain"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Bacillus Anthracis Plasmid Pxo1 Virulence factors (bp 1 - 47555)",
+  "updated": "01 Mar 2020",
+  "virus_count": 35
+}
